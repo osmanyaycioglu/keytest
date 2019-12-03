@@ -1,0 +1,595 @@
+<svg width='2480px' height='3508px' viewBox='0 0 2480 3508' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='keycaps-root'>
+<link href='https://fonts.googleapis.com/css?family=Roboto&amp;display=swap' rel='stylesheet'/>
+<style type='text/css'>
+.keycaps-root {
+  font-size:40px;
+  font-family: 'Roboto', sans-serif;
+}
+.keycap-rec {
+  stroke: black;
+  fill: white;
+}
+.keycap-1-text {
+  stroke: none;
+  fill: black;
+  font-size:1em;
+  font-weight:500;
+  dominant-baseline: middle;
+}
+.keycap-2-text {
+  stroke: none;
+  fill: black;
+  font-size:0.6em;
+  font-weight:600;
+  dominant-baseline: middle;
+}
+.keycap-3-text {
+  stroke: none;
+  fill: black;
+  font-size:0.6em;
+  font-weight:700;
+  dominant-baseline: middle;
+}
+.keycap-4-text {
+  stroke: none;
+  fill: black;
+  font-size:0.4em;
+  font-weight:500;
+  dominant-baseline: middle;
+}
+.keycap-shift-text {
+  stroke: none;
+  fill: black;
+  font-size:0.6em;
+  font-weight:500;
+  dominant-baseline: middle;
+}
+.keycap-alt-text {
+  stroke: none;
+  fill: black;
+  font-size:0.6em;
+  font-weight:500;
+  dominant-baseline: middle;
+}
+</style>
+<svg x='10' y='10' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='25%' y='25%' dominant-baseline='middle' text-anchor='middle' class='keycap-shift-text'>é</text>
+  <text x='25%' y='75%' dominant-baseline='middle' text-anchor='middle' class='keycap-alt-text'>&lt;</text>
+  <text x='60%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-text'>&quot;</text>
+ </g>
+</svg>
+
+<svg x='94' y='10' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='25%' y='25%' dominant-baseline='middle' text-anchor='middle' class='keycap-shift-text'>!</text>
+  <text x='25%' y='75%' dominant-baseline='middle' text-anchor='middle' class='keycap-alt-text'>&gt;</text>
+  <text x='60%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-text'>1</text>
+ </g>
+</svg>
+
+<svg x='178' y='10' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='25%' y='25%' dominant-baseline='middle' text-anchor='middle' class='keycap-shift-text'>&apos;</text>
+  <text x='25%' y='75%' dominant-baseline='middle' text-anchor='middle' class='keycap-alt-text'>£</text>
+  <text x='60%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-text'>2</text>
+ </g>
+</svg>
+
+<svg x='262' y='10' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='25%' y='25%' dominant-baseline='middle' text-anchor='middle' class='keycap-shift-text'>^</text>
+  <text x='25%' y='75%' dominant-baseline='middle' text-anchor='middle' class='keycap-alt-text'>#</text>
+  <text x='60%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-text'>3</text>
+ </g>
+</svg>
+
+<svg x='346' y='10' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='25%' y='25%' dominant-baseline='middle' text-anchor='middle' class='keycap-shift-text'>+</text>
+  <text x='25%' y='75%' dominant-baseline='middle' text-anchor='middle' class='keycap-alt-text'>$</text>
+  <text x='60%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-text'>4</text>
+ </g>
+</svg>
+
+<svg x='430' y='10' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='25%' y='25%' dominant-baseline='middle' text-anchor='middle' class='keycap-shift-text'>%</text>
+  <text x='25%' y='75%' dominant-baseline='middle' text-anchor='middle' class='keycap-alt-text'>½</text>
+  <text x='60%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-text'>5</text>
+ </g>
+</svg>
+
+<svg x='514' y='10' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='25%' y='25%' dominant-baseline='middle' text-anchor='middle' class='keycap-shift-text'>&amp;</text>
+  <text x='25%' y='75%' dominant-baseline='middle' text-anchor='middle' class='keycap-alt-text'>¾</text>
+  <text x='60%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-text'>6</text>
+ </g>
+</svg>
+
+<svg x='598' y='10' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='25%' y='25%' dominant-baseline='middle' text-anchor='middle' class='keycap-shift-text'>/</text>
+  <text x='25%' y='75%' dominant-baseline='middle' text-anchor='middle' class='keycap-alt-text'>{</text>
+  <text x='60%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-text'>7</text>
+ </g>
+</svg>
+
+<svg x='682' y='10' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='25%' y='25%' dominant-baseline='middle' text-anchor='middle' class='keycap-shift-text'>(</text>
+  <text x='25%' y='75%' dominant-baseline='middle' text-anchor='middle' class='keycap-alt-text'>[</text>
+  <text x='60%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-text'>8</text>
+ </g>
+</svg>
+
+<svg x='766' y='10' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='25%' y='25%' dominant-baseline='middle' text-anchor='middle' class='keycap-shift-text'>)</text>
+  <text x='25%' y='75%' dominant-baseline='middle' text-anchor='middle' class='keycap-alt-text'>]</text>
+  <text x='60%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-text'>9</text>
+ </g>
+</svg>
+
+<svg x='10' y='94' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='25%' y='25%' dominant-baseline='middle' text-anchor='middle' class='keycap-shift-text'>=</text>
+  <text x='25%' y='75%' dominant-baseline='middle' text-anchor='middle' class='keycap-alt-text'>}</text>
+  <text x='60%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-text'>0</text>
+ </g>
+</svg>
+
+<svg x='94' y='94' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='25%' y='25%' dominant-baseline='middle' text-anchor='middle' class='keycap-shift-text'>?</text>
+  <text x='25%' y='75%' dominant-baseline='middle' text-anchor='middle' class='keycap-alt-text'>\</text>
+  <text x='60%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-text'>*</text>
+ </g>
+</svg>
+
+<svg x='178' y='94' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='25%' y='25%' dominant-baseline='middle' text-anchor='middle' class='keycap-shift-text'>_</text>
+  <text x='25%' y='75%' dominant-baseline='middle' text-anchor='middle' class='keycap-alt-text'>|</text>
+  <text x='60%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-text'>-</text>
+ </g>
+</svg>
+
+<svg x='262' y='94' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='25%' y='25%' dominant-baseline='middle' text-anchor='middle' class='keycap-shift-text'>;</text>
+  <text x='25%' y='75%' dominant-baseline='middle' text-anchor='middle' class='keycap-alt-text'>`</text>
+  <text x='60%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-text'>,</text>
+ </g>
+</svg>
+
+<svg x='346' y='94' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='25%' dominant-baseline='middle' text-anchor='middle' class='keycap-shift-text'>:</text>
+  <text x='50%' y='75%' dominant-baseline='middle' text-anchor='middle' class='keycap-text'>.</text>
+ </g>
+</svg>
+
+<svg x='430' y='94' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>Q</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='514' y='94' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>W</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='598' y='94' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>E</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='682' y='94' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>R</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='766' y='94' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>T</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='10' y='178' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>Y</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='94' y='178' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>U</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='178' y='178' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>I</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='262' y='178' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>O</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='346' y='178' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>P</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='430' y='178' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>Ğ</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='514' y='178' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>Ü</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='598' y='178' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>A</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='682' y='178' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>S</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='766' y='178' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>D</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='10' y='262' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>F</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='94' y='262' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>G</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='178' y='262' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>H</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='262' y='262' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>J</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='346' y='262' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>K</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='430' y='262' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>L</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='514' y='262' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>Ş</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='598' y='262' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>İ</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='682' y='262' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>Z</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='766' y='262' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>X</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='10' y='346' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>C</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='94' y='346' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>V</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='178' y='346' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>B</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='262' y='346' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>N</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='346' y='346' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>M</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='430' y='346' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>Ö</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='514' y='346' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-1-text'>Ç</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='598' y='346' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>ESC</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='682' y='346' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>F1</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='766' y='346' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>F2</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='10' y='430' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>F3</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='94' y='430' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>F4</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='178' y='430' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>F5</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='262' y='430' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>F6</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='346' y='430' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>F7</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='430' y='430' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>F8</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='514' y='430' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>F9</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='598' y='430' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>F10</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='682' y='430' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>F11</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='766' y='430' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>F12</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='10' y='514' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>PRT</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='94' y='514' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>SL</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='178' y='514' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>PA</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='262' y='514' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>INS</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='346' y='514' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>DEL</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='430' y='514' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>Home</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='514' y='514' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>End</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='598' y='514' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>PageUp</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='682' y='514' height='80' width='80'>
+ <g>
+  <rect x='0' y='0' height='80' width='80' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>PD</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='766' y='514' height='80' width='180'>
+ <g>
+  <rect x='0' y='0' height='80' width='180' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>Shift</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='10' y='598' height='80' width='140'>
+ <g>
+  <rect x='0' y='0' height='80' width='140' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>Shift</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='154' y='598' height='80' width='100'>
+ <g>
+  <rect x='0' y='0' height='80' width='100' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>Alt</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+<svg x='258' y='598' height='80' width='100'>
+ <g>
+  <rect x='0' y='0' height='80' width='100' class='keycap-rec'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' class='keycap-2-text'>Alt</text>
+  <polyline stroke='orange' points='40,0 40,80'></polyline>  <polyline stroke='orange' points='0,40 80,40'></polyline> </g>
+</svg>
+
+</svg>
